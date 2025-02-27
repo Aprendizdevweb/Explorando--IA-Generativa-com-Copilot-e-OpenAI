@@ -1,4 +1,4 @@
-# Explorando--IA-Generativa-com-Copilot-e-OpenAI
+# IA-Generativa-com-Copilot-e-OpenAI
 Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI
 ![1740686628086](https://github.com/user-attachments/assets/36883396-c39e-466f-b99b-ecc40fee2e79)
 
